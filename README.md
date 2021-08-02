@@ -3,7 +3,9 @@
 ## I'm currently studying Electrical and Electronic Engineering at AUST, Bangladesh
 
 -👨‍💻 At this moment I am exploring Web Development
+
 -🐛 I see everything as technical problems and all technical problems can be solved using correct tools. 
+
 -👨‍💻 Average Linux Enjoyer
 
 
