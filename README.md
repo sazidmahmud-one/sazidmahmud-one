@@ -1,8 +1,8 @@
 ### Hi there, I'm Sazid 👋
 
-## I'm currently studying Electrical and Electronic Engineering at AUST, Bangladesh
+## I did my B.Sc. in Electrical and Electronic Engineering.
 
--👨‍💻 At this moment I am exploring Web Development
+-👨‍💻 At this moment I am exploring Machine Learning.
 
 -🐛 I see everything as technical problems and all technical problems can be solved using correct tools. 
 
